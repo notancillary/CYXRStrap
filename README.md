@@ -10,7 +10,7 @@ XR Elite Glasses Mode Strap<br>
 <br>
 1. Print parts in PETG or PLA. - No support required.<br>
 2. Assemble your XR Elite in glasses mode.<br>
-3. Heat the clip area until slightly pliable. <br>
+3. Heat the clip area with a hair-dryer or heatgun until slightly pliable. <br>
 4. Slide the clip onto the hmd arm with the opening facing outwards.<br>
 5. Squeeze the clip area around the arms until it fits tightly.<br>
 6. Repeat for the second arm. <br>
