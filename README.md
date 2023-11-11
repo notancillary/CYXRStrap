@@ -2,13 +2,10 @@
 XR Elite Glasses Mode Strap<br>
 <br>
 <br>
-![Screenshot 2023-11-11 123851](https://github.com/notancillary/CYXRStrap/assets/50598087/d3eec1c3-dcc1-4ed7-bdc3-5bf2c32a607d)
-<br>
-<br>
-![Screenshot 2023-11-11 123831](https://github.com/notancillary/CYXRStrap/assets/50598087/1ffacfc9-086a-476e-9e80-7c4b89241a15)
+![Screenshot 2023-11-11 153332](https://github.com/notancillary/CYXRStrap/assets/50598087/019212b2-52dd-4953-846b-f3d1dfbf492a)
 
 <br>
-1. Print parts in PETG or PLA. - No support required.<br>
+1. Print parts in PETG or PLA. - No support required.<br?
 2. Assemble your XR Elite in glasses mode.<br>
 3. Heat the clip area with a hair-dryer or heatgun until slightly pliable. <br>
 4. Slide the clip onto the hmd arm with the opening facing outwards.<br>
